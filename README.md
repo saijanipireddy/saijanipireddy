@@ -1,7 +1,7 @@
-## Hi there 👋 <h1 align="center">Hey, I'm Nagasai Janipireddy 👋</h1>
+## <h1 align="center">Hey, I'm Nagasai Janipireddy 👋</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | ⚡ Innovator | 🎯 10+ LPA Seeker | 🧠 Growth Hacker<br>
+  🚀 Full Stack Developer | ⚡ Innovator | 🧠 Growth Hacker<br>
   <em>I design, build & scale ambitious digital products with MERN, AI & DevOps.</em>
 </p>
 
@@ -19,11 +19,10 @@
 
 ### 🛠 Featured Projects
 
-- 🔥 [Jobby App](https://github.com/yourname/jobby-app): Job portal with JWT auth, search filters & protected routes  
-- 🎧 [Spotify Clone + Lyrics Translator](https://github.com/yourname/spotify-lyrics): Real-time translation for lyrics  
-- 💬 [Real-time Chat App](https://github.com/yourname/chatapp): WhatsApp-like chat with socket.io  
-- 🍲 [Recipe API](https://github.com/yourname/recipe-api): REST API with user login, CRUD, image upload  
-- 🛍️ [E-commerce Site](https://github.com/yourname/ecommerce): Full-stack site with cart, payments, admin panel
+- 🔥 [Jobby App](https://janipireddy.ccbp.tech/): Job portal with JWT auth, search filters & protected routes  
+- 🎧 [Spotify Clone](https://sai-spotify-frontend.onrender.com/): Real-time spotify clone with play songs
+- 🍲 [Recipe API](https://fullstack-app-frontend-hkfc.onrender.com/): REST API with user login, CRUD, image upload  
+- 🛍️ [E-commerce Site](https://saikumarsahi.ccbp.tech/): Full-stack site with cart, payments, admin panel
 
 ---
 
@@ -46,7 +45,7 @@
 
 ### 📫 Reach Me
 
-🌐 [Portfolio](https://yourportfolio.com) | 💼 [LinkedIn](https://linkedin.com/in/yourname) | 📨 janipireddynagasai@gmail.com
+🌐 [Portfolio](https://saiportofolio.onrender.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/naga-sai-kumar-janipireddy/) | 📨 saijanipireddy@gmail.com
 
 
 
