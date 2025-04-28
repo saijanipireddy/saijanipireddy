@@ -31,9 +31,9 @@
 | Project        | Tech Stack        | Description |
 |----------------|--------------------|-------------|
 | **🎯 [Jobby App](#)** | React, Node, JWT, MongoDB | Secure job portal with authentication, search filters & protected routes. |
-| **🎧 [Spotify Clone](#)** | React, Node, WebSockets | Real-time music streaming platform with dynamic play/pause functionality. |
-| **🍲 [Recipe API](#)** | Node, Express, MongoDB, AWS S3 | Authenticated CRUD API with user login and image upload. |
-| **🛒 [E-commerce Platform](#)** | MERN, Stripe | Full-stack e-commerce with dynamic cart, payments & admin dashboard. |
+| **🎧 [Spotify Clone](#)** | React, Node, Express, MongoDb, Bootstrap,Cloudinary| Real-time music streaming platform with dynamic play/pause functionality. |
+| **🍲 [Recipe API](#)** | Node, Express, MongoDB, ReactJs,Cloudinary | Authenticated CRUD API with user login and image upload. |
+| **🛒 [E-commerce Platform](#)** | ReactJs,NodeJs,ExpressJs,MongoDB,Bootstrap | Full-stack e-commerce with dynamic cart, payment & admin dashboard. |
 
 > 🌐 **More Projects:** Check out my [Repositories](https://github.com/NagasaiJanipireddy?tab=repositories) for additional work!
 
@@ -41,13 +41,13 @@
 
 ### 📊 **GitHub Stats & Activity**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagasaiJanipireddy&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saijanipireddy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagasaiJanipireddy&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saijanipireddy&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NagasaiJanipireddy&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saijanipireddy&theme=react-dark" alt="Activity Graph"/>
 </p>
 
 ---
