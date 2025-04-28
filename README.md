@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="Nagasai Janipireddy Banner" />
+  <img src="https://res.cloudinary.com/dk9buau62/image/upload/v1745819148/1737426530173_huiecz.jpg" alt="Nagasai Janipireddy Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nagasai Janipireddy</h1>
