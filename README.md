@@ -1,65 +1,89 @@
-## <h1 align="center">Hey, I'm Nagasai Janipireddy 👋</h1>
-
+<!-- Profile Banner -->
 <p align="center">
-  🚀 Full Stack Developer | ⚡ Innovator | 🧠 Growth Hacker<br>
-  <em>I design, build & scale ambitious digital products with MERN, AI & DevOps.</em>
+  <img src="YOUR_BANNER_URL_HERE" alt="Nagasai Janipireddy Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Nagasai Janipireddy</h1>
+<h3 align="center">🚀 Full Stack Developer | ⚡ Innovation Architect | 🧠 Growth Hacker</h3>
+<p align="center">Building next-gen digital products with <b>MERN</b>, <b>AI</b>, and <b>DevOps</b>.</p>
+
+---
+
+### 🛠 **Tech Stack & Tools**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-008000?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
 ---
 
-### 🔧 Tech Stack
+### 🚀 **Featured Projects**
+| Project        | Tech Stack        | Description |
+|----------------|--------------------|-------------|
+| **🎯 [Jobby App](#)** | React, Node, JWT, MongoDB | Secure job portal with authentication, search filters & protected routes. |
+| **🎧 [Spotify Clone](#)** | React, Node, WebSockets | Real-time music streaming platform with dynamic play/pause functionality. |
+| **🍲 [Recipe API](#)** | Node, Express, MongoDB, AWS S3 | Authenticated CRUD API with user login and image upload. |
+| **🛒 [E-commerce Platform](#)** | MERN, Stripe | Full-stack e-commerce with dynamic cart, payments & admin dashboard. |
 
-**Frontend**: React.js, Tailwind, Bootstrap  
-**Backend**: Node.js, Express.js, REST APIs  
-**Database**: MongoDB, SQL  
-**DevOps**: GitHub Actions, Azure DevOps  
-**Others**: JWT Auth, WebSockets, AWS (S3), OOP, SDLC
-
----
-
-### 🛠 Featured Projects
-
-- 🔥 [Jobby App](https://janipireddy.ccbp.tech/): Job portal with JWT auth, search filters & protected routes  
-- 🎧 [Spotify Clone](https://sai-spotify-frontend.onrender.com/): Real-time spotify clone with play songs
-- 🍲 [Recipe API](https://fullstack-app-frontend-hkfc.onrender.com/): REST API with user login, CRUD, image upload  
-- 🛍️ [E-commerce Site](https://saikumarsahi.ccbp.tech/): Full-stack site with cart, payments, admin panel
+> 🌐 **More Projects:** Check out my [Repositories](https://github.com/NagasaiJanipireddy?tab=repositories) for additional work!
 
 ---
 
-### 📈 Stats & Showcases
-
+### 📊 **GitHub Stats & Activity**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NagasaiJanipireddy&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagasaiJanipireddy&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NagasaiJanipireddy&theme=react-dark" alt="Activity Graph"/>
 </p>
 
 ---
 
-### 🧭 Vision
+### 🧭 **Vision**
+> *“I don’t just ship code — I build impactful, user-first products that bend the rules and deliver value at scale.”*
 
-> _"Build viral, user-first products that bend the rules of what's possible."_  
-> I don't just code. I launch. I iterate. I ship value at speed.  
-> Currently breaking through the 8 LPA ceiling in 30 days.
+🎯 Currently breaking through the **8+ LPA ceiling** by building faster, learning deeper, and innovating smarter.
 
 ---
 
-### 📫 Reach Me
+### 📫 **Let's Connect & Collaborate**
+<p>
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saijanipireddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-🌐 [Portfolio](https://saiportofolio.onrender.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/naga-sai-kumar-janipireddy/) | 📨 saijanipireddy@gmail.com
+---
 
+### 🏆 **Achievements & Certifications**
+- Completed Full Stack Development specialization at **NxtWave CCBP 4.0**.
+- Built & deployed production-ready apps using **MERN Stack**.
+- Certified in **Azure DevOps** & **Cloud Fundamentals**.
 
+---
 
-<!--
-**saijanipireddy/saijanipireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 **Currently Learning**
+- Microservices Architecture  
+- Advanced DevOps (CI/CD pipelines, containerization)  
+- AI-powered product features  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ **Fun Fact:**  
+I love turning complex ideas into simple, scalable applications — while sipping on strong coffee ☕.
+
+---
+
