@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://res.cloudinary.com/dk9buau62/image/upload/v1745819148/1737426530173_huiecz.jpg" alt="Nagasai Janipireddy Banner" />
+  <img src="https://res.cloudinary.com/dk9buau62/image/upload/v1746510474/White_Minimalist_Profile_LinkedIn_Banner_20250506_110628_0000_ycgggk.png" alt="Nagasai Janipireddy Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nagasai Janipireddy</h1>
